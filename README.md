@@ -1,2 +1,17 @@
-# InternetSpeedLogger
-A simple Windows speed test tool (Python + Tkinter) to measure download, upload and ping, and save results to CSV.very usefull in Germany
+Internet Speed Logger
+
+A Windows tool by Jie (Python + Tkinter)
+
+✨ Features
+
+One-click speed test
+
+Measures download, upload, and ping
+
+Saves data to CSV (semicolon + comma decimals for German Excel)
+
+Portable EXE, no installation required
+
+📥 Download
+
+👉 [Download latest version](Your Release Link)
