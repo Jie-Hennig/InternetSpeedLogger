@@ -14,4 +14,4 @@ Portable EXE, no installation required
 
 📥 Download
 
-👉 [Download latest version](Your Release Link)
+👉 [Download latest version]
