@@ -14,4 +14,4 @@ Portable EXE, no installation required
 
 📥 Download
 
-👉 [Download latest version]
+👉 [[Download latest version]](https://github.com/Jie-Hennig/InternetSpeedLogger/releases/download/v1/jie_InternetSpeed.exe)
